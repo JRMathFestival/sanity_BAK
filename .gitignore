@@ -1,0 +1,14 @@
+/node_modules
+
+#yarn
+.yarn
+.yarnrc
+.yarnrc.yml
+.pnp.cjs
+
+/backup
+
+.DS_Store
+
+.env*
+migrations/patches.json
